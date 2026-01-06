@@ -41,3 +41,6 @@ Verification is conducted using a testbench, alu_tb, which simulates the hardwar
 *3*)Monitoring: The $monitor system task continuously tracks and prints signal values to the console whenever a change occurs, providing a real-time log of the ALU’s response to each operation.
 
 This design successfully demonstrates the integration of arithmetic and logic functions into a single cohesive unit, verified through comprehensive simulation cases to ensure logical correctness before potential synthesis onto hardware platforms like FPGAs.
+#OUTPUT
+
+https://github.com/user-attachments/assets/54545953-f088-425d-9b0d-c22bc9ed6bdd
