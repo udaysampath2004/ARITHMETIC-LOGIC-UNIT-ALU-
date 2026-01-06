@@ -35,7 +35,7 @@ Verification is conducted using a testbench, alu_tb, which simulates the hardwar
 
 *2*)Stimulus Generation: The initial block executes a sequence of test cases separated by time delays (#10).
 
-     *a*)Test Case 1 (ADD): Inputs 0A (10) and 02 (2) are added. The expected result is 0C (12) with CarryOut=0.
+     *a*)Test Case 1 (ADD): Inputs 01 (10) and 09 (2) are added. The expected result is 0A (10) with CarryOut=0.
      *b*)Test Case 2 (SUB): Subtracting 02 from 0A yields 08.
      *c*)Test Case 3 (AND): FF AND 0F masks the upper nibble, resulting in 0F.
 *3*)Monitoring: The $monitor system task continuously tracks and prints signal values to the console whenever a change occurs, providing a real-time log of the ALU’s response to each operation.
