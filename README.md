@@ -43,5 +43,5 @@ Verification is conducted using a testbench, alu_tb, which simulates the hardwar
 This design successfully demonstrates the integration of arithmetic and logic functions into a single cohesive unit, verified through comprehensive simulation cases to ensure logical correctness before potential synthesis onto hardware platforms like FPGAs.
 #OUTPUT
 
-![img](https://github.com/udaysampath2004/ARITHMETIC-LOGIC-UNIT-ALU-/issues/1#issue-3785335629)
+![img](https://github.com/user-attachments/assets/54545953-f088-425d-9b0d-c22bc9ed6bdd)
 
